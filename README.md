@@ -182,25 +182,26 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
-<br>
 <hr style=" border-top: 4px double #b0b0b0;">
 <div class="container">
     <p align="center"><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=amogh2409&show_icons=true&theme=radical&layout=compact"
             alt="amogh2409" /></p>
 </div>
-<div>
+<div style="width:100%">
     <p align="center"><img align="center"
             src="https://github-readme-stats.vercel.app/api?username=amogh2409&show_icons=true&theme=radical"
-            alt="amogh2409" />
-        &nbsp;<img align="center"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2409&theme=radical" alt="amogh2409" />
-    </p>
+            alt="amogh2409" /></p>
 </div>
+<div>  <p align="center"><img align="center"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2409&theme=radical" alt="amogh2409" /></p>
+    </div>
+<div>
 <hr style=" border-top: 4px double #b8b8b8;">
 <h3 align="left">Support:</h3>
 <p> &nbsp;<a href="https://www.buymeacoffee.com/amoghsaxena24"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="amoghsaxena24" /></a></p><br>
+    </div>
             <hr style=" border-top: 4px dotted #b2b2b2;">
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2409&" alt="amogh2409" /></p> -->
