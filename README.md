@@ -127,9 +127,7 @@
 <hr style=" border-top: 4px double #b0b0b0;">
 <div class="container">
     <p align="center"><img align="center"
-             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amogh2409&show_icons=true&theme=radical&layout=compact"
-                           
-             alt="amogh2409" /></p>
+             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amogh2409&show_icons=true&theme=radical&layout=compact" alt="amogh2409" /></p>
 </div>
 <div style="width:100%">
     <p align="center"><img align="center"
