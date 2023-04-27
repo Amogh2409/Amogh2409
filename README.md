@@ -136,8 +136,12 @@
             alt="amogh2409" /></p>
             
 </div>
-<div>  <p align="center"><img align="center"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2409&theme=radical" alt="amogh2409" /></p>
+<div>  <p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2409&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
     </div>
 <div>
 <hr style=" border-top: 4px double #b8b8b8;">
