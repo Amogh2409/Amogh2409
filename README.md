@@ -146,7 +146,7 @@
 <div>
 <hr style=" border-top: 4px double #b8b8b8;">
 <h3 align="left">Support:</h3>
-<p> &nbsp;<a href="https://www.buymeacoffee.com/amoghsaxena24"> <img align="left"
+<p align="Center"> &nbsp;<a href="https://www.buymeacoffee.com/amoghsaxena24"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="amoghsaxena24" /></a></p><br>
     </div>
