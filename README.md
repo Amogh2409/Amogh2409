@@ -27,9 +27,9 @@
 
 - 📫 How to reach me **amoghsaxena24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cH8Ew-B9JH-Kcs4DUlO-CL_pEeyUB5tN/view?usp=share_link](https://drive.google.com/file/d/1cH8Ew-B9JH-Kcs4DUlO-CL_pEeyUB5tN/view?usp=share_link)
+- 📄 Know about my experiences [📄 Resume ]([https://drive.google.com/file/d/1cH8Ew-B9JH-Kcs4DUlO-CL_pEeyUB5tN/view?usp=share_link](https://drive.google.com/file/d/1jqrklvY3O8vzHbRrYePssoxdbnVyZn37/view?usp=sharing))
 
-- ⚡ Fun fact **The bravest thing I've ever done was give a demonstration to a live audience of over one thousand people.**
+- ⚡ Fun fact **The bravest thing I've ever done was give a demonstration to a live audience of over 2500 people.**
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://github.com/Amogh2409" target="_blank">
