@@ -143,7 +143,13 @@
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
     </div>
+<br/>
 <div>
+    <p align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=amogh2409&limit=5&theme=radical&combine_all_yearly_contributions=true">
+    </p>
+</div>
+    
 <hr style=" border-top: 4px double #b8b8b8;">
 <h3 align="left">Support:</h3>
 <p align="center"> &nbsp;<a href="https://www.buymeacoffee.com/amoghsaxena24"> <img align="left"
