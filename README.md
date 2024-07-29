@@ -149,6 +149,16 @@
         <img src="https://github-contributor-stats.vercel.app/api?username=amogh2409&limit=5&theme=radical&combine_all_yearly_contributions=true">
     </p>
 </div>
+
+<h1 align="center">
+<img height="30"src="sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="sparkling-stars.gif">
+</h1>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amogh2409&theme=radical&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&count_private=true&include_all_commits=true"/>
+<!--   most used langs table -->
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2409&theme=radical&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
     
 <hr style=" border-top: 4px double #b8b8b8;">
 <h3 align="left">Support:</h3>
