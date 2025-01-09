@@ -7,8 +7,8 @@
     of Technology and Science Jabalpur. I am a YouTuber and a Community guy who loves being involved in various
     societies.
     loves to click nature's Photographs. Possessing good leadership skills as well as a patient listener</h3>
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=amogh2409&label=Profile%50views&color=0e75b6&style=flat"
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=amogh2409&label=Profile%50views&color=0e75b6&style=flat"
         alt="amogh2409" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=amogh2409" alt="amogh2409" /></a> </p>
