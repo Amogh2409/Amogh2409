@@ -23,8 +23,6 @@
 
 - 👯 I’m looking to collaborate on [Web Development,](AI related Project)
 
-- 👨‍💻 All of my projects are available at [https://amogh2409.github.io/Portfolio-website/](https://amogh2409.github.io/Portfolio_template/)
-
 - 💬 Ask me about **flutter, C++, Python, WebDev**
 
 - 📫 How to reach me **amoghsaxena24@gmail.com**
